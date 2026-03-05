@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./lab02_baseline",
+        "./lab03_prompt_engineering"
+    ]
+}
